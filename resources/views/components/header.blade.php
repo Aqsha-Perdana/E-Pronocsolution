@@ -1,5 +1,7 @@
 <header class="fixed top-0 left-0 w-full z-50 bg-white shadow-md py-3 px-6 flex items-center justify-between h-16">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <title>E-PRONOC - Kolaborasi Lebih Mudah, Persetujuan Lebih Cepat</title>
+    <link rel="shortcut icon" type="image/png" href="image/tab1.png" />
     <script src="//unpkg.com/alpinejs" defer></script>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <style>[x-cloak]{ display:none !important }</style>
